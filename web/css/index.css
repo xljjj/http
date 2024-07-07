@@ -1,0 +1,18 @@
+h1{
+    font-family: Algerian, serif;
+    text-align: center;
+}
+
+.food{
+    display: flex;
+    justify-content: center;
+}
+
+.food img{
+    width: 300px;
+    height: 400px;
+}
+
+.more{
+    background-color: aquamarine;
+}
